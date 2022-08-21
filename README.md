@@ -9,3 +9,17 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
+<b>⚡ Github Stats</b>
+<p float="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ankitachavan123&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitachavan123&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
+
+<b>&#128200; Competitive Programming</b>
+<p float="left">
+<img height="280em" width="400em" src="https://leetcode.card.workers.dev/ankitachavan?cache=0" />
+<img height="280em" width="300em" src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=erankitachavan" />
+</p>
