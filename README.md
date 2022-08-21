@@ -2,8 +2,8 @@
 
 
 - 🌱 I’m currently learning React JS
-- 👯 I’m looking to collaborate on some interesting projects
-- 💬 Ask me about my projects
+- 👯 I’m looking to collaborate on React and ML based projects
+- 💬 Ask me about Data Structures and Algorithms
 - 😄 Pronouns: Anki
 - ⚡ Fun fact: I have devil teeths
 
